@@ -1,2 +1,0 @@
-"# Minijuego-Phaser" 
-# Minijueo-Phaser
